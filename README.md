@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dedWalker18
-- 👀 I’m interested in Mchine Larning and Cmputer Vision
-- 🌱 I’m currently learning SQL and RDBMS
-- 💞️ I’m looking to collaborate on Instagram Clone app
+- 👀 I’m interested in Machine learning and Computer Vision
 
 <!---
 dedWalker18/dedWalker18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
